@@ -23,8 +23,8 @@ body {
 }
 
 #layout-menu a {
-	line-height: 2.5em;
-	margin-left: 1.5em;
+	line-height: 1.5em;
+	margin-left: 0.5em;
 }
 
 tt {
@@ -172,9 +172,9 @@ div#footer-text {
 }
 
 ul, ol, dl {
-	margin-top: 0.2em;
+	margin-top: 0.4em;
 	padding-top: 0;
-	margin-bottom: 0.8em;
+	margin-bottom: 1.6em;
 }
 
 dt {
