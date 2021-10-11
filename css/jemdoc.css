@@ -204,7 +204,7 @@ p + ul, p + ol {
 }
 
 li ul, li ol {
-	margin-top: -0.3em;
+	margin-top: 0.6em;
 }
 
 ol {
@@ -213,7 +213,7 @@ ol {
 }
 
 li p, dd p {
-	margin-bottom: 0.3em;
+	margin-bottom: 0.6em;
 }
 
 
@@ -260,7 +260,7 @@ div.infoblock p {
 }
 
 div.infoblock li p, div.infoblock dd p {
-	margin-bottom: 0.5em;
+	margin-bottom: 1.0em;
 }
 
 div.infoblock p + p {
