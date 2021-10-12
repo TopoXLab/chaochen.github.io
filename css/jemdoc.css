@@ -27,6 +27,10 @@ body {
 	margin-left: 0.5em;
 }
 
+li {
+  margin: 10px 0;
+}
+
 tt {
 	color: green;
 }
