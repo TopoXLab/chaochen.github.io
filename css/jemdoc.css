@@ -172,9 +172,9 @@ div#footer-text {
 }
 
 ul, ol, dl {
-	margin-top: 0.4em;
+	margin-top: 0.2em;
 	padding-top: 0;
-	margin-bottom: 1.2em;
+	margin-bottom: 0.8em;
 }
 
 dt {
@@ -204,7 +204,7 @@ p + ul, p + ol {
 }
 
 li ul, li ol {
-	margin-top: 1.2em;
+	margin-top: -0.3em;
 }
 
 ol {
@@ -213,7 +213,7 @@ ol {
 }
 
 li p, dd p {
-	margin-bottom: 1.2em;
+	margin-bottom: 0.3em;
 }
 
 
@@ -260,7 +260,7 @@ div.infoblock p {
 }
 
 div.infoblock li p, div.infoblock dd p {
-	margin-bottom: 1.0em;
+	margin-bottom: 0.5em;
 }
 
 div.infoblock p + p {
