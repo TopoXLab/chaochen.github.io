@@ -27,10 +27,6 @@ body {
 	margin-left: 0.5em;
 }
 
-li:not(:last-child) {
-    margin-bottom: 5px;
-}
-
 tt {
 	color: green;
 }
@@ -176,9 +172,9 @@ div#footer-text {
 }
 
 ul, ol, dl {
-	margin-top: 0.2em;
+	margin-top: 0.4em;
 	padding-top: 0;
-	margin-bottom: 0.8em;
+	margin-bottom: 1.6em;
 }
 
 dt {
