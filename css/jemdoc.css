@@ -27,8 +27,8 @@ body {
 	margin-left: 0.5em;
 }
 
-li {
-  margin: 10px 0;
+li:not(:last-child) {
+    margin-bottom: 5px;
 }
 
 tt {
